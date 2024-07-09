@@ -22,6 +22,8 @@ Foundry manages your dependencies, compiles your project, runs tests, deploys, a
 
 MOST APPEALING: Foundry lets you write tests in Solidity and address faulty testing for emits in Hardhat js.
 
+See [cheatcodes](https://book.getfoundry.sh/cheatcodes/) for what is available
+
 ```sh
 curl -L https://foundry.paradigm.xyz | bash
 brew install libusb
